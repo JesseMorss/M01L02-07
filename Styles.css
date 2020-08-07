@@ -1,0 +1,51 @@
+body{
+    color:rgb(76, 0, 255);
+    background-color: lightcoral;
+    font-style: italic;
+    width: 100%;
+   }
+.black-border{
+    border:5px solid black;
+}
+#green-background{
+    font-size: 20px;
+}
+.dik{
+    font-weight: bold;
+}
+main{
+    border-style: solid; 
+    border-color: chartreuse;
+    margin: 20px 15px;
+    padding: 20px 10px;
+}
+header{
+    border-style: dashed;
+    border-color: cornsilk;
+    margin: 20px 15px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;  
+}
+nav{
+    border-style: hidden;
+    margin: 20px 25px
+}
+footer{
+       margin: 0 auto;
+       display: block;
+       width: 10%;
+}
+.center{
+    text-align: center;
+}
+.index{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navigatie{
+    display: inline;
+    background-color: gray;
+}
